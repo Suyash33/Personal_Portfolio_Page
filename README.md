@@ -22,4 +22,4 @@ Welcome to my Personal Portfolio Page project! This is a simple webpage I create
 
 Feel free to fork this repository and customize it for your own personal portfolio. If you have any suggestions or feedback, please feel free to reach out to me.
 
-# Happy coding!
+## Happy coding!
